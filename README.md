@@ -5,10 +5,10 @@
   <img src="https://c.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="600" hieght="400"/>
   </p>
 
-<h2 align="center">About Me</h2>
+<p align="center">I'm a UI/UX designer and a full stack developer.</p>
 
 
-I'm a UI/UX designer and a full stack developer.
+
 
 
 <h2 align="center"> Skills & Tools</h2>
