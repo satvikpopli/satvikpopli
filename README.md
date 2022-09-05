@@ -32,8 +32,9 @@
 
 <div align="center"> 
 
-[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikpopli&theme=github_dark&show_icons=true)]()
+<!-- [![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikpopli&theme=github_dark&show_icons=true)]() -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikpopli&layout=compact&theme=github_dark)]()
+  
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=satvikpopli&theme=tokyonight)]()
 
 </div>
