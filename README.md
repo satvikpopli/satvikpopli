@@ -1,10 +1,11 @@
 
 <h1 align="center"> Hi, I'm Satvik.</h1>
 
-![Neo](https://c.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif)
+<p align="center">
+  <img src="https://c.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="600" hieght="400"/>
+  </p>
 
-
-<h2 align="center"> About Me</h2>
+<h2 align="center">About Me</h2>
 
 
 I'm a UI/UX designer and a full stack developer.
