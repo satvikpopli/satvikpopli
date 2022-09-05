@@ -24,3 +24,9 @@ I'm a UI/UX designer and a full stack developer.
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+<h2 align="center" style="margin-top: 0px;"> 🏆 Github Stats</h2>
+
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikpopli&theme=github_dark&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikpopli&layout=compact&theme=github_dark)]()
