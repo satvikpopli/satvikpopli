@@ -1,16 +1,17 @@
 
-# I'm Satvik.
-
+<h1 align="center"> Hi, I'm Satvik.</h1>
 
 ![Neo](https://c.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif)
 
 
-## About Me
+<h2 align="center"> About Me</h2>
+
 
 I'm a UI/UX designer and a full stack developer.
 
 
-## Skills & Tools
+<h2 align="center"> Skills & Tools</h2>
+
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -25,7 +26,7 @@ I'm a UI/UX designer and a full stack developer.
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<h2 align="center" style="margin-top: 0px;"> 🏆 Github Stats</h2>
+<h2 align="center"> Github Stats </h2>
 
 [![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikpopli&theme=github_dark&show_icons=true)]()
 
